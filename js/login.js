@@ -26,7 +26,7 @@ const INFO      = window.document.getElementById("info");
 const CONTAINER = window.document.getElementById("container");
 const TALK      = ["https://www.kalodev.site to learn more",
                    "open-source software",
-                   "embedded linux operating systems",
+                   "embedded operating systems",
                    "embedded linux design",
                    "embedded linux development",
                    "python/c/c++ programming",
