@@ -121,7 +121,8 @@ const itr = kalo.rndGenerator(TALK);
 const winterval = window.setInterval(() => {
     let item = itr.next();
     if (item.done || BREAK) clearInterval(winterval);
-    kalo.setContent(INFO, "inforouleau ", item.value);
+    kalo.setContent(INFO, item.value);
+//    kalo.setContent(INFO, "inforouleau ", item.value);
 
 }, Math.round(1000 / FREQUENCE));
 
