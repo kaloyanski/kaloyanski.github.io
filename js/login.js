@@ -38,7 +38,8 @@ const TALK      = ["https://www.kalodev.site to learn more",
                    "if you share it your code is no more secret",
 //                   `take a look at my <a href = "https://www.kalodev.site">django</a> project if up`,
                    `<a href = "back">interface de programmation d'applications de transfert d'état représentationnelle 100% php</a>`,
-                   `<a href = "back">representational state transfer application programming interface 100% php</a>`,                   
+                   `<a href = "https://kaloyanski.github.io/meta-thc">poky linux on raspberrypi 4 model b</a>`,
+                   `<a href = "back">representational state transfer application programming interface 100% php</a>`,
                    `une liste <a href = "https://freeshell.de/morla/ap">opérationnelle</a> d'apformation projets`];
 
 class kalo {/* une classe général des instruments essenciels
