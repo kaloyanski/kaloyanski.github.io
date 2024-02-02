@@ -24,8 +24,7 @@ const LABID     = window.document.getElementById("labid");
 const BODY      = window.document.querySelector("body");
 const INFO      = window.document.getElementById("info");
 const CONTAINER = window.document.getElementById("container");
-const TALK      = ["https://www.kalodev.site to learn more",
-                   "open-source software",
+const TALK      = ["open-source software",
                    "embedded operating systems",
                    "embedded linux design",
                    "embedded linux development",
